@@ -1,0 +1,8 @@
+-Python 3.x
+- Streamlit
+- Pandas
+- NumPy
+- yFinance
+- Plotly
+- Alpha Vantage API
+- StockNews
